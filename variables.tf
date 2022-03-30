@@ -1,12 +1,12 @@
 variable "region" {
-  type = "string"
+  type = string
   default = "us-east-2"
 }
 
 variable "keyID" {
-  type = "string"
+  type = string
 }
 
 variable "secretKey" {
-  type = "string"
+  type = string
 }
